@@ -1,0 +1,64 @@
+>> simulation
+Delta_BS: 0.7606
+Gamma_BS: 0.0046
+------------------------------------------------
+Scheme: Absorption | Paths: 10000 | Steps/year: 20
+Elapsed time is 5.425071 seconds.
+C_T: 37.0558 | Delta: 0.7876 | Gamma: 0.0043
+Bias: 2.0560 | Std: 0.6341 | RMSE: 2.1515
+------------------------------------------------
+Scheme: Absorption | Paths: 40000 | Steps/year: 40
+Elapsed time is 38.621259 seconds.
+C_T: 36.6110 | Delta: 0.7897 | Gamma: 0.0044
+Bias: 1.6112 | Std: 0.3009 | RMSE: 1.6391
+------------------------------------------------
+Scheme: Absorption | Paths: 160000 | Steps/year: 80
+Elapsed time is 530.410757 seconds.
+C_T: 36.1998 | Delta: 0.7908 | Gamma: 0.0045
+Bias: 1.2000 | Std: 0.1544 | RMSE: 1.2099
+------------------------------------------------
+Scheme: Reflection | Paths: 10000 | Steps/year: 20
+Elapsed time is 11.091206 seconds.
+C_T: 39.4744 | Delta: 0.7848 | Gamma: 0.0039
+Bias: 4.4746 | Std: 0.7690 | RMSE: 4.5402
+------------------------------------------------
+Scheme: Reflection | Paths: 40000 | Steps/year: 40
+Elapsed time is 38.832403 seconds.
+C_T: 38.1954 | Delta: 0.7852 | Gamma: 0.0041
+Bias: 3.1956 | Std: 0.3217 | RMSE: 3.2117
+------------------------------------------------
+Scheme: Reflection | Paths: 160000 | Steps/year: 80
+Elapsed time is 500.368691 seconds.
+C_T: 37.3845 | Delta: 0.7872 | Gamma: 0.0043
+Bias: 2.3847 | Std: 0.1548 | RMSE: 2.3898
+------------------------------------------------
+Scheme: Partial Truncation | Paths: 10000 | Steps/year: 20
+Elapsed time is 11.216466 seconds.
+C_T: 35.4019 | Delta: 0.7940 | Gamma: 0.0047
+Bias: 0.4021 | Std: 0.6110 | RMSE: 0.7314
+------------------------------------------------
+Scheme: Partial Truncation | Paths: 40000 | Steps/year: 40
+Elapsed time is 37.930952 seconds.
+C_T: 35.1860 | Delta: 0.7955 | Gamma: 0.0046
+Bias: 0.1862 | Std: 0.3147 | RMSE: 0.3657
+------------------------------------------------
+Scheme: Partial Truncation | Paths: 160000 | Steps/year: 80
+Elapsed time is 473.370793 seconds.
+C_T: 35.0730 | Delta: 0.7957 | Gamma: 0.0047
+Bias: 0.0732 | Std: 0.1444 | RMSE: 0.1619
+------------------------------------------------
+Scheme: Full Truncation | Paths: 10000 | Steps/year: 20
+Elapsed time is 11.098506 seconds.
+C_T: 35.1444 | Delta: 0.7972 | Gamma: 0.0047
+Bias: 0.1446 | Std: 0.5887 | RMSE: 0.6062
+------------------------------------------------
+Scheme: Full Truncation | Paths: 40000 | Steps/year: 40
+Elapsed time is 38.990218 seconds.
+C_T: 34.9907 | Delta: 0.7956 | Gamma: 0.0047
+Bias: 0.0091 | Std: 0.2615 | RMSE: 0.2617
+------------------------------------------------
+Scheme: Full Truncation | Paths: 160000 | Steps/year: 80
+Elapsed time is 481.229291 seconds.
+C_T: 34.9897 | Delta: 0.7959 | Gamma: 0.0047
+Bias: 0.0101 | Std: 0.1414 | RMSE: 0.1417
+>> 
